@@ -1,7 +1,7 @@
 # Página de cobrança
 
 
-![Capa do Projeto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8XR4LR9LUW8hKWgfq96Qw7-0Hs76KuJR4Xw&usqp=CAU)
+![Capa do Projeto](https://www.cupcom.com.br/wp-content/uploads/2020/03/site-html-css.jpg)
 
 # Sobre o Projeto
 
